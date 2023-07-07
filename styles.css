@@ -3,11 +3,11 @@
 button {
 	color:white;
 	background-color:black;
-	border:5px;
+	border-radius:5px;
 	
 }
 button:hover {
   background-color: yellow;
   color: black;
-	border:30px;
+	border-radius:30px;
 }
