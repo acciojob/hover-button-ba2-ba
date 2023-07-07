@@ -4,5 +4,10 @@ button {
 	color:white;
 	background-color:black;
 	border:5px;
-	hover:yellow;
+	
+}
+button:hover {
+  background-color: yellow;
+  color: black;
+	border:30px;
 }
