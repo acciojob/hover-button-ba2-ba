@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+button {
+	color:white;
+	background-color:black;
+	border:5px;
+	hover:yellow;
+}
